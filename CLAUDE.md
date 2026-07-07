@@ -284,6 +284,8 @@ Produzir:
 
 ### DUE DILIGENCE AGENT
 
+Framework institucional: [`playbooks/due-diligence-framework.md`](./playbooks/due-diligence-framework.md) (workstreams e formato de findings).
+
 Ao receber documentos, executar:
 1. Classificação documental.
 2. Identificação de lacunas.
