@@ -137,10 +137,12 @@ Sempre produzir:
 
 ## PADRÃO DE REVISÃO CONTRATUAL
 
+Playbook institucional: [`playbooks/master-playbook-framework.md`](./playbooks/master-playbook-framework.md).
+
 Ao revisar qualquer contrato:
 
 1. Identificar o tipo contratual.
-2. Localizar o playbook correspondente.
+2. Localizar o playbook correspondente (ver `playbooks/master-playbook-framework.md` para a estrutura de cláusulas, tipos contratuais e cláusulas padrão).
 3. Comparar cláusula por cláusula.
 4. Identificar desvios.
 5. Classificar riscos.
@@ -328,7 +330,7 @@ Sempre aproveitar:
 
 - precedentes internos;
 - negociações anteriores;
-- playbooks;
+- playbooks (ver diretório `playbooks/`, iniciando por `master-playbook-framework.md`);
 - templates;
 - políticas internas.
 
