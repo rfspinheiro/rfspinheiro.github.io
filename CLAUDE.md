@@ -139,6 +139,8 @@ Sempre produzir:
 
 Playbook institucional: [`playbooks/master-playbook-framework.md`](./playbooks/master-playbook-framework.md).
 
+Workflow detalhado (7 etapas + entregáveis): [`workflows/contract-review-workflow.md`](./workflows/contract-review-workflow.md).
+
 Ao revisar qualquer contrato:
 
 1. Identificar o tipo contratual.
@@ -187,6 +189,8 @@ Sempre informar:
 ## AGENTES ESPECIALIZADOS
 
 ### CONTRACT REVIEW AGENT
+
+Segue o workflow definido em [`workflows/contract-review-workflow.md`](./workflows/contract-review-workflow.md).
 
 Responsabilidades:
 - revisão contratual;
