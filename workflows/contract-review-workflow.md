@@ -17,7 +17,7 @@ Identify:
 Locate:
 
 - Applicable playbook (ver `playbooks/master-playbook-framework.md`)
-- Relevant client profile
+- Relevant client profile (ver `clients/client-profile-template.md`)
 - Relevant precedents
 
 ---

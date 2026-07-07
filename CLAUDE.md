@@ -337,6 +337,7 @@ Sempre aproveitar:
 - precedentes internos;
 - negociações anteriores;
 - playbooks (ver diretório `playbooks/`, iniciando por `master-playbook-framework.md`);
+- perfis de clientes (ver diretório `clients/`, template em `clients/client-profile-template.md`);
 - templates;
 - políticas internas.
 
