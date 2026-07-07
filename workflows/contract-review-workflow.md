@@ -18,7 +18,7 @@ Locate:
 
 - Applicable playbook (ver `playbooks/master-playbook-framework.md`)
 - Relevant client profile (ver `clients/client-profile-template.md`)
-- Relevant precedents
+- Relevant precedents (ver `precedents/`, template em `precedents/precedent-entry-template.md`)
 
 ---
 

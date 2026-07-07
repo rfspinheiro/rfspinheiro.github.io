@@ -334,7 +334,7 @@ Sempre que possível utilizar:
 
 Sempre aproveitar:
 
-- precedentes internos;
+- precedentes internos (ver diretório `precedents/`, template em `precedents/precedent-entry-template.md`);
 - negociações anteriores;
 - playbooks (ver diretório `playbooks/`, iniciando por `master-playbook-framework.md`);
 - perfis de clientes (ver diretório `clients/`, template em `clients/client-profile-template.md`);
